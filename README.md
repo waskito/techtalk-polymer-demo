@@ -1,7 +1,7 @@
 techtalk-polymer-demo
 =====================
 
-### TechTalk#37 : Intro to Web Components with Polymer ###
+### TechTalk#37 : [Intro to Web Components with Polymer](http://www.slideshare.net/jeguwaskito/tech-talk-polymer) ###
 
 
 ### How can I try ? ###
